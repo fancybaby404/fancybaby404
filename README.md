@@ -2,7 +2,6 @@
 ![namejulian](https://user-images.githubusercontent.com/53817791/117187652-ba1a6800-ae0e-11eb-981f-6f6fa73e1af7.png)
 </h3>
 
-https://cdn.discordapp.com/attachments/696767114706681899/839558363489501194/namejulian.png
 <p align="center">
   <a href="https://twitter.com/MacatoJulian">• Twitter</a> •
   <a href="youtube.com/c/fancybaby404">YouTube</a>
