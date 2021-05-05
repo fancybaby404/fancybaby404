@@ -1,7 +1,6 @@
 <h3 align="center">
-![image](https://cdn.discordapp.com/attachments/696767114706681899/839558363489501194/namejulian.png)
+![namejulian](https://user-images.githubusercontent.com/53817791/117187652-ba1a6800-ae0e-11eb-981f-6f6fa73e1af7.png)
 </h3>
-[![160744959694494596](https://cdn.discordapp.com/attachments/696767114706681899/839558363489501194/namejulian.png)
 
 https://cdn.discordapp.com/attachments/696767114706681899/839558363489501194/namejulian.png
 <p align="center">
