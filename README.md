@@ -1,5 +1,7 @@
-<div style="text-align:center"><img src="![namejulian](https://user-images.githubusercontent.com/53817791/117187652-ba1a6800-ae0e-11eb-981f-6f6fa73e1af7.png)]" /></div>
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/53817791/117187652-ba1a6800-ae0e-11eb-981f-6f6fa73e1af7.png" alt="namejulian"/>
+</p>
+  
   • <a href="https://twitter.com/MacatoJulian">Twitter</a> •
   <a href="youtube.com/c/fancybaby404">YouTube</a> •
 </p>
