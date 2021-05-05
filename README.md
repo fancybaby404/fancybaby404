@@ -16,10 +16,10 @@ Hi i am Julian, and i am a aspiring software developer. I am currently focused o
 
 <p align="center">
 Languages/Tech that i plan to learn / am learning  
-• Python  
-• Machine learning  
-• C++  
-• C#  
-• JS  
-• ReactJS  
+• Python <br />
+• Machine learning <br />
+• C++ <br />
+• C# <br />
+• JS <br />
+• ReactJS <br />
 </p>
