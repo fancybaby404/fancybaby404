@@ -1,16 +1,12 @@
-### Hi there 👋
+##### Julian Macato
+### Hi i am Julian and i'm a aspiring software developer 
+----
+## I'm currently focused on learning python and pretty much getting to know the ins and out the fundamentals of programming 
+----
+## Currently a student and i really despise the way that they are teaching the python course
+![](https://cdn.discordapp.com/emojis/798788426299342890.png?v=1)
+----
+## My Socials:
+![Twitter](https://twitter.com/MacatoJulian)
+![YouTube](youtube.com/c/fancybaby404)
 
-<!--
-**fancybaby404/fancybaby404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
