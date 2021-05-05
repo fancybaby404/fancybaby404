@@ -3,7 +3,7 @@
 </p>
 <p align="center">  
   • <a href="https://twitter.com/MacatoJulian">Twitter</a> •
-  <a href="youtube.com/c/fancybaby404">YouTube</a> •
+  <a href="https://www.youtube.com/channel/UCha2OxI-Eei32ZBzDobYAbQ">YouTube</a> •
 </p>
 
 ---
