@@ -1,11 +1,11 @@
-####Julian Macato
-##Hi i am Julian and i'm a aspiring software developer 🦍
-<br />
-#I'm currently focused on learning python and pretty much getting to know the ins and out the fundamentals of programming 
-<br />
-#Currently a student and i really despise the way that they are teaching the python course![](https://cdn.discordapp.com/emojis/798788426299342890.png?v=1)
-<br />
-#My Socials:
-![Twitter](https://twitter.com/MacatoJulian)
-![YouTube](youtube.com/c/fancybaby404)
-<br />
+<h3 align="center">
+![image](https://cdn.discordapp.com/attachments/696767114706681899/839558363489501194/namejulian.png)
+</h3>
+
+<p align="center">
+  <a href="https://twitter.com/MacatoJulian">Twitter</a> •
+  <a href="youtube.com/c/fancybaby404">YouTube</a> •
+</p>
+
+--- 
+Hi i am Julian, and i am a aspiring software developer. I am currently focused on learning python or rather, getting to know the ins and out of the fundamentals of programming. I am currently a senior high school student.
