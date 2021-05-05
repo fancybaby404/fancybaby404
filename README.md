@@ -9,14 +9,13 @@
 ---
 
 <p align="center">
-Hi i am Julian, and i am a aspiring software developer. I am currently focused on learning python or rather, getting to know the ins and out of the fundamentals of programming. I am currently a senior high school student.
+Hi i am Julian, and i am a aspiring software developer. I am currently focused on learning python or rather, getting to know the ins and out of the fundamentals of programming. I am currently a senior high school student. 🍔
 </p>
 
 ---
 
-<p align="center">
-Languages/Tech that i plan to learn / am learning  
-</p>
+Languages/Tech that i plan to learn / am learning 📚
+
 • Python <br />
 • Machine learning <br />
 • C++ <br />
