@@ -1,10 +1,12 @@
 <h3 align="center">
 ![image](https://cdn.discordapp.com/attachments/696767114706681899/839558363489501194/namejulian.png)
 </h3>
+[![160744959694494596](https://cdn.discordapp.com/attachments/696767114706681899/839558363489501194/namejulian.png)
 
+https://cdn.discordapp.com/attachments/696767114706681899/839558363489501194/namejulian.png
 <p align="center">
-  <a href="https://twitter.com/MacatoJulian">Twitter</a> •
-  <a href="youtube.com/c/fancybaby404">YouTube</a> •
+  <a href="https://twitter.com/MacatoJulian">• Twitter</a> •
+  <a href="youtube.com/c/fancybaby404">YouTube</a>
 </p>
 
 --- 
