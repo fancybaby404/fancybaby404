@@ -17,6 +17,7 @@ Hi i am Julian, and i am a aspiring software developer. I am currently focused o
 Languages/Tech that i plan to learn / am learning 📚
 
 • Python <br />
+• Java <br />
 • Machine learning <br />
 • C++ <br />
 • C# <br />
