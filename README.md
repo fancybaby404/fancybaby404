@@ -6,7 +6,7 @@
 ---
 Hi i am Julian, and i am a aspiring software developer. I am currently focused on learning python or rather, getting to know the ins and out of the fundamentals of programming. I am currently a senior high school student.
 ---
-#Languages/Tech that i plan to learn / am learning
+Languages/Tech that i plan to learn / am learning
 • Python
 • Machine learning
 • C++
