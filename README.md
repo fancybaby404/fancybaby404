@@ -9,20 +9,6 @@
 ---
 
 <p align="center">
-Hi i am Julian, and i am a aspiring software developer. I am currently focused on learning C or rather, getting to know the ins and out of the fundamentals of programming. I am currently a college student. 🍔
+i actually really hate typescript but i am learning it
 </p>
 
----
-
-Languages/Tech that i plan to learn / am learning 📚
-
-• C <br />
-• Python <br />
-• Java <br />
-• Machine learning <br />
-• C++ <br />
-• C# <br />
-• JS <br />
-• ReactJS <br />
-• Flutter <br />
-</p>
