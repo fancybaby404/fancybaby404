@@ -14,6 +14,6 @@ i actually really hate typescript but i am learning it
 
 ---
 
-<p>
+<p align="center">
   i am open for freelance projects and part time jobs. hit me up! 
 </p>
